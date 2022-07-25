@@ -1,0 +1,21 @@
+.header{
+    padding: 10px;
+    display: flex;
+}
+
+.button{
+    font-size: medium;
+    border-style: none;
+    background-color: #add8e6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.button:hover{
+    background-color: #c1efff;
+}

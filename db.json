@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "title": "go to sleep early!!",
+      "id": 0,
+      "completed": false
+    },
+    {
+      "title": "do the dishes :)",
+      "id": 1,
+      "completed": true
+    },
+    {
+      "title": "read o(*￣▽￣*)ブ",
+      "id": 2,
+      "completed": false
+    }
+  ]
+}
+
+
